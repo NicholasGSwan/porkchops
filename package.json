@@ -1,0 +1,23 @@
+{
+  "name": "porkchops",
+  "version": "1.0.0",
+  "description": "its whats for dinner",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasGSwan/porkchops.git"
+  },
+  "keywords": [
+    "stuff",
+    "things"
+  ],
+  "author": "nicholasgswan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicholasGSwan/porkchops/issues"
+  },
+  "homepage": "https://github.com/NicholasGSwan/porkchops#readme"
+}
